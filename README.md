@@ -88,10 +88,7 @@ mvn spring-boot:run
 
 ---
 
-## 📸 Screenshots (Optional)  
-_Add UI screenshots if you have a frontend._
 
----
 
 ## 🤝 Contributing  
 1. Fork the repository  
